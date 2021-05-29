@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaasSnuiver
-- 👀 I’m interested in Java & Spring 
-- 🌱 I’m currently learning Kotlin & PHP
+- 👀 I’m interested in Java & Kotlin 
+- 🌱 I’m currently learning C#
 - 📫 How to reach me contact@kaassnuiver.com
 
 <!---
